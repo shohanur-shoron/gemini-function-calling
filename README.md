@@ -1,7 +1,6 @@
 ## Gemini Function Calling Demo Script Documentation
 
 **Version:** 1.0
-**Author:** Shohanur Rahman
 
 ### 1. Overview
 
