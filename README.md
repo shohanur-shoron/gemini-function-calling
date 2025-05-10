@@ -2,6 +2,9 @@
 
 **Version:** 1.0
 
+![image](https://github.com/user-attachments/assets/ff35d50a-fc74-47b8-9b2a-61df8894e9aa)
+
+
 ### 1. Overview
 
 This Python script demonstrates how to use Google's Gemini AI models with function calling capabilities. It sets up a chat interface where a user can interact with a Gemini model. The model can understand when the user's request requires executing a predefined function (a "tool"). If so, the model will request to call that function with specific arguments. The script then simulates the execution of this function and uses another Gemini model call to generate a user-friendly confirmation message.
